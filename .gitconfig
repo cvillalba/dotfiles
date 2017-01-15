@@ -1,0 +1,20 @@
+[user]
+	name = Carlos Villalba
+	email = carlos.villalba.j@gmail.com
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+	unstage = reset HEAD --
+	last = log -1 HEAD
+[core]
+	editor = vim
+	pager = more
+	autocrlf = true
+[color]
+	ui = true
+	branch = true
+	diff = true
+	interactive = true
+	status = true
